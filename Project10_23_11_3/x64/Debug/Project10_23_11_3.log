@@ -1,0 +1,4 @@
+﻿  test_11_3.cpp
+E:\C语言学习文件\Project10_23_11_3\test_11_3.cpp(33,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (*)[4]”
+E:\C语言学习文件\Project10_23_11_3\test_11_3.cpp(33,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int (*)[4]" 的参数 1 冲突
+  Project10_23_11_3.vcxproj -> E:\C语言学习文件\Project10_23_11_3\x64\Debug\Project10_23_11_3.exe
