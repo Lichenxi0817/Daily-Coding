@@ -1,0 +1,10 @@
+﻿  test_11_11.cpp
+E:\C语言学习文件\Project12_23_11_11\test_11_11.cpp(71,9): warning C4477: “printf”: 格式字符串“%-2d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\C语言学习文件\Project12_23_11_11\test_11_11.cpp(71,9): message : 请考虑在格式字符串中使用“%lld”
+E:\C语言学习文件\Project12_23_11_11\test_11_11.cpp(71,9): message : 请考虑在格式字符串中使用“%Id”
+E:\C语言学习文件\Project12_23_11_11\test_11_11.cpp(71,9): message : 请考虑在格式字符串中使用“%I64d”
+E:\C语言学习文件\Project12_23_11_11\test_11_11.cpp(72,9): warning C4477: “printf”: 格式字符串“%-2d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\C语言学习文件\Project12_23_11_11\test_11_11.cpp(72,9): message : 请考虑在格式字符串中使用“%lld”
+E:\C语言学习文件\Project12_23_11_11\test_11_11.cpp(72,9): message : 请考虑在格式字符串中使用“%Id”
+E:\C语言学习文件\Project12_23_11_11\test_11_11.cpp(72,9): message : 请考虑在格式字符串中使用“%I64d”
+  Project12_23_11_11.vcxproj -> E:\C语言学习文件\Project12_23_11_11\x64\Debug\Project12_23_11_11.exe
